@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "384a156d708707ad7dc7",
+    "revision": "304726f1a6e158f87cf9",
     "url": "/material-dashboard/static/css/main.bebfd8f4.chunk.css"
   },
   {
-    "revision": "384a156d708707ad7dc7",
-    "url": "/material-dashboard/static/js/main.384a156d.chunk.js"
+    "revision": "304726f1a6e158f87cf9",
+    "url": "/material-dashboard/static/js/main.304726f1.chunk.js"
   },
   {
     "revision": "31eeb3c40328880468a9",
     "url": "/material-dashboard/static/js/runtime~main.31eeb3c4.js"
   },
   {
-    "revision": "f851bf46288b9f688587",
+    "revision": "1c1608327948d3817361",
     "url": "/material-dashboard/static/css/2.543b29e5.chunk.css"
   },
   {
-    "revision": "f851bf46288b9f688587",
-    "url": "/material-dashboard/static/js/2.f851bf46.chunk.js"
+    "revision": "1c1608327948d3817361",
+    "url": "/material-dashboard/static/js/2.1c160832.chunk.js"
   },
   {
     "revision": "310509c95512893dc661bd3a6b0d2a5d",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/material-dashboard/static/media/marc.8880a65c.jpg"
   },
   {
-    "revision": "6a0f341f945baf5861f7daf10f32cc61",
+    "revision": "f3931d6a3f41e9d6e6270ecf8c272fab",
     "url": "/material-dashboard/index.html"
   }
 ];
