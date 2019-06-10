@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "384a156d708707ad7dc7",
+    "revision": "53830c8bbeec65c49ffd",
     "url": "/material-dashboard/static/css/main.bebfd8f4.chunk.css"
   },
   {
-    "revision": "384a156d708707ad7dc7",
-    "url": "/material-dashboard/static/js/main.384a156d.chunk.js"
+    "revision": "53830c8bbeec65c49ffd",
+    "url": "/material-dashboard/static/js/main.53830c8b.chunk.js"
   },
   {
     "revision": "31eeb3c40328880468a9",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/material-dashboard/static/media/marc.8880a65c.jpg"
   },
   {
-    "revision": "6a0f341f945baf5861f7daf10f32cc61",
+    "revision": "fa3f2b8872d18d187109bd562d956d60",
     "url": "/material-dashboard/index.html"
   }
 ];
